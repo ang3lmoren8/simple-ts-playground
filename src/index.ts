@@ -3,3 +3,4 @@ const saySomething = (message: string) => {
 }
 
 saySomething('Hello typescript!')
+
